@@ -8,7 +8,7 @@ The app is a game where the user must press arrows based on the result of `modul
 
 ## Changes Made  
 - Fixed an incorrect URL in the application.  
-- Fixed an issue with displaying **Toast** messages in the "Game" activity.  
+- Fixed an issue with displaying **Toast** messages in the Activity_Game.  
 
 ---
 
